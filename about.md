@@ -8,4 +8,5 @@ permalink: /about/
 
 ### Contact me
 
-[xiaoxietao36@gmail.com](mailto:xiaoxietao36@gmail.com)
+[xiaoxietao36@gmail.com](mailto:xiaoxietao36@gmail.com)<br>
+[github.com/xiaogmail](https://github.com/xiaogmail)
